@@ -55,7 +55,7 @@ class LoginScreen extends StatelessWidget {
             child: ElevatedButton(
               onPressed: () {
                 // Implementa lo que debe suceder cuando se presiona Registrarse
-                //print('Registrarse presionado');
+                // print('Registrarse presionado'); a ver este cambio
               },
               child: Text('Registrarse'),
             ),
